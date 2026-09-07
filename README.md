@@ -4,6 +4,8 @@
 
 ## Alunos
 
+Link para a gravação: https://www.youtube.com/watch?v=OYGQycu4kFw
+
 | Matrícula | Aluno |
 | -- | -- |
 | 232003661  | João Pedro Araújo de Freitas Lyra |
